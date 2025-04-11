@@ -1,7 +1,7 @@
 # 🧾 Arbeitslogger
 
 **Arbeitslogger** ist ein leichtgewichtiges PHP-Tool zur Erfassung von Homeoffice-, Remotearbeits- und Krankheitstagen.  
-Es eignet sich für Einzelpersonen oder kleine Teams zur internen Arbeitszeiterfassung ohne externe Dienste oder Datenbanken.
+Es eignet sich hervorragend z.B. zur internen Arbeitszeiterfassung ohne externe Dienste oder Datenbanken.
 
 ## ✨ Funktionen
 
